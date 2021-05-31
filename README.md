@@ -3,21 +3,26 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viktoravelino/)](https://www.linkedin.com/in/viktoravelino/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/viktoravelino/)](https://www.instagram.com/viktoravelino/)
 
-I'm Viktor, a Web Developer from Brazil who lives in London, Canada. Passionate about backend and learning it step by step.<br>
+I'm Viktor, a Web Developer from Brazil who lives in London, Canada. Passionate about development and learning it step by step.<br>
 Always glad to contribute on every possible way!
 
 About me:
 - :school: Web Development and Internet Applications student on Fanshawe College.
 - 💬 You can ask me anything [here](https://github.com/viktoravelino/viktoravelino/issues).
 <br/>
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viktoravelino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktoravelino&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
-<details>
-  <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktoravelino&layout=compact&bg_color=ffffff&text_color=333333">
-</details>
-<br/>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Viktor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Viktor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Viktor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Viktor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Viktor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/viktoravelino)](https://github.com/viktoravelino)
 
 <!--
 **viktoravelino/viktoravelino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
