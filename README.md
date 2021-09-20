@@ -8,7 +8,7 @@ I'm Viktor, a Web Developer from Brazil who lives in London, Canada. Passionate 
 Always glad to contribute on every possible way!
 
 About me:
-- :school: Web Development and Internet Applications student on Fanshawe College.
+- :school: Web Development and Internet Applications student at Fanshawe College.
 - 💬 You can ask me anything [here](https://github.com/viktoravelino/viktoravelino/issues).
 <br/>
 <div align="center">
