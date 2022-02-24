@@ -1,14 +1,20 @@
+# Viktor Avelino
 
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viktoravelino/)](https://www.linkedin.com/in/viktoravelino/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/viktoravelino/)](https://www.instagram.com/viktoravelino/)
+[![Linkedin Badge](https://img.shields.io/badge/-Vitkor%20Avelino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viktoravelino/)](https://www.linkedin.com/in/viktoravelino/)
+[![Gmail Badge](https://img.shields.io/badge/-viktor.avelino@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viktor.avelino@gmail.com)](mailto:viktor.avelino@gmail.com)
 
-I'm Viktor, a Web Developer from Brazil who lives in London, Canada. Passionate about development and learning it step by step.<br>
-Always glad to contribute on every possible way!
+A coding guy with a business background! 
+<br>
+Passionate for helping businesses thrive through technology and programming.
 
-About me:
-- :school: Web Development and Internet Applications student at Fanshawe College.
+:school: Web Development and Internet Applications student @ Fanshawe College. <br>
+:house: Living in London, Ontario
+
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=viktoravelino&repo=viktoravelino&countColor=%23388bfd&style=flat)
+<!-- About me:
+- 
 - 💬 You can ask me anything [here](https://github.com/viktoravelino/viktoravelino/issues).
 <br/>
 <div align="center">
@@ -28,7 +34,7 @@ About me:
 <div>
 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=viktoravelino&repo=viktoravelino&countColorcountColor)
-</div>
+</div> -->
 <!--
 **viktoravelino/viktoravelino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
