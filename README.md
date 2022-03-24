@@ -10,6 +10,7 @@ A coding guy with a business background!
 Passionate for helping businesses thrive through technology and programming.
 
 :school: Web Development and Internet Applications student @ Fanshawe College. <br>
+:brazil: Northen Brazilian Native <br>
 :house: Living in London, Ontario
 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=viktoravelino&repo=viktoravelino&countColor=%23388bfd&style=flat)
