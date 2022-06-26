@@ -9,7 +9,7 @@ A coding guy with a business background!
 <br>
 Passionate for helping businesses thrive through technology and programming.
 
-:school: Full-Stack Software Engineer focused on React, React Native and NodeJS <br>
+:school: Full-Stack Developer focused on React, React Native and NodeJS <br>
 :brazil: Northern Brazilian Native <br>
 :house: Living in Toronto, ON, Canada
 
