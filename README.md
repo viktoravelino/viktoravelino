@@ -9,9 +9,9 @@ A coding guy with a business background!
 <br>
 Passionate for helping businesses thrive through technology and programming.
 
-:school: Web Development and Internet Applications student @ Fanshawe College. <br>
+:school: Full-Stack Software Engineer focused on React, React Native and NodeJS <br>
 :brazil: Northern Brazilian Native <br>
-:house: Living in London, Ontario
+:house: Living in Toronto, ON, Canada
 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=viktoravelino&repo=viktoravelino&countColor=%23388bfd&style=flat)
 <!-- About me:
