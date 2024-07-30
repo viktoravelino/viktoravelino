@@ -3,17 +3,18 @@
 ### Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vitkor%20Avelino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viktoravelino/)](https://www.linkedin.com/in/viktoravelino/)
-[![Gmail Badge](https://img.shields.io/badge/-viktor.avelino@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viktor.avelino@gmail.com)](mailto:viktor.avelino@gmail.com)
 
+<!--
+[![Gmail Badge](https://img.shields.io/badge/-viktor.avelino@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viktor.avelino@gmail.com)](mailto:viktor.avelino@gmail.com)
+-->
 A coding guy with a business background! 
 <br>
-Passionate for helping businesses thrive through technology and programming.
+Passionate for helping businesses thrive through technology.
 
-:school: Full-Stack Developer focused on React, React Native and NodeJS <br>
+:school: Full-Stack Developer focused on React, Angular, React Native and NodeJS <br>
 :brazil: Northern Brazilian Native <br>
 :house: Living in Toronto, ON, Canada
 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=viktoravelino&repo=viktoravelino&countColor=%23388bfd&style=flat)
 <!-- About me:
 - 
 - 💬 You can ask me anything [here](https://github.com/viktoravelino/viktoravelino/issues).
